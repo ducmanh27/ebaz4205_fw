@@ -1,0 +1,105 @@
+# ==========================================
+# Vitis / Vivado Workspace
+# ==========================================
+
+# Workspace metadata
+.metadata/
+.ide/
+_ide/
+!.metadata/README.md
+
+# User-specific settings
+.settings/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# Build output and generated files
+# ==========================================
+
+build/
+Debug/
+Release/
+Debug_*/
+Release_*/
+.Xil/
+.cache/
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+
+# Common generated output directories
+hw_emu/
+sw_emu/
+x86simulator_output/
+aiesimulator_output/
+*.dll
+*.exe
+
+# ==========================================
+# Logs, reports and temporary files
+# ==========================================
+
+*.log
+*.jou
+*.str
+*.rpt
+*.pb
+*.wdb
+*.vcd
+*.vpd
+*.backup.*
+*.crash
+core
+
+# ==========================================
+# Generated hardware artifacts
+# ==========================================
+
+*.bit
+*.bin
+*.mcs
+*.svf
+*.ltx
+*.dcp
+*.edf
+*.edif
+*.xpe
+*.xclbin
+*.pdi
+
+# ==========================================
+# OS and editor files
+# ==========================================
+!.env.example
+.env
+.env.*
+
+.DS_Store
+# ==========================================
+
+# ==========================================
+# Secrets and local environment
+Thumbs.db
+desktop.ini
+.vscode/
+*.elf
+*.map
+*.tmp
+*.d
+*.a
+*.so
+sd_card/
+*.o
+*.obj
+package/
+# ==========================================
+
+_x/
+# ==========================================
+# Compiled objects and dependencies
+

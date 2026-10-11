@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="ddr_test" location="D:/Workspace/ddr_test" platform="D:/Workspace/zynq7000_driver/export/zynq7000_driver/zynq7000_driver.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="ddr_test_system" sysConfig="zynq7000_driver" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="48057d1acb2b27fa139ab65ed3d7bad9">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.957200508">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.495740474" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="zynq_dram_test"/>
+</sdkproject:SdkProject>
